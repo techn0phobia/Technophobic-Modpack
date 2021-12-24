@@ -1,4 +1,4 @@
-
+                         
 #Project: Vibrant Journeys settings
 [Settings]
 
@@ -67,31 +67,31 @@
 
 	#Biome Settings
 	[Settings.Biomes]
-		alpine_heights = true
-		boreal_forest = true
-		windswept_cliffs = true
-		baobab_fields = true
-		desert_shrubland = true
-		flooded_woodlands = true
-		willow_wetlands = true
-		mangrove_marsh = true
-		meadows = true
-		boreal_plateau = true
-		snowy_redwoods = true
-		red_rock_valley = true
-		snowy_boreal_forest = true
-		crimson_thicket = true
-		pine_meadows = true
-		aspen_grove = true
-		prairie = true
-		autumnal_coniferous_forest = true
-		stony_fields = true
-		redwood_peaks = true
-		overgrown_spires = true
-		redwoods = true
-		blossoming_fields = true
-		verdant_sands = true
-		crystal_lakes = true
+		alpine_heights = false
+		boreal_forest = false
+		windswept_cliffs = false
+		baobab_fields = false
+		desert_shrubland = false
+		flooded_woodlands = false
+		willow_wetlands = false
+		mangrove_marsh = false
+		meadows = false
+		boreal_plateau = false
+		snowy_redwoods = false
+		red_rock_valley = false
+		snowy_boreal_forest = false
+		crimson_thicket = false
+		pine_meadows = false
+		aspen_grove = false
+		prairie = false
+		autumnal_coniferous_forest = false
+		stony_fields = false
+		redwood_peaks = false
+		overgrown_spires = false
+		redwoods = false
+		blossoming_fields = false
+		verdant_sands = false
+		crystal_lakes = false                               
 
 		#Biome Ambience Settings
 		[Settings.Biomes."Biome Ambience"]
@@ -127,6 +127,6 @@
 
 	#Tree Settings
 	[Settings."Tree Settings"]
-		enablePalmTrees = true
-		enableJuniperTrees = true
+		enablePalmTrees = false
+		enableJuniperTrees = false
 
