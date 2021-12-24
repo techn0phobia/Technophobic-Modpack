@@ -1,18 +1,18 @@
-                         
+
 #Project: Vibrant Journeys settings
 [Settings]
 
 	[Settings."Mob Settings"]
 
 		[Settings."Mob Settings"."Mob Toggles"]
-			"Enable Snails" = true
-			"Enable Fireflies" = true
+			"Enable Snails" = false
+			"Enable Fireflies" = false
 			"Enable Slugs" = true
-			"Enable Flies" = true
+			"Enable Flies" = false
 			"Enable Starfish" = true
 			"Enable Frogs" = true
 			"Enable Clams" = true
-			"Enable Small Spiders" = true
+			"Enable Small Spiders" = false
 
 			[Settings."Mob Settings"."Mob Toggles"."Mob Spawn Weights"]
 				"Clam Spawn Weight" = 10
@@ -91,7 +91,7 @@
 		redwoods = false
 		blossoming_fields = false
 		verdant_sands = false
-		crystal_lakes = false                               
+		crystal_lakes = false
 
 		#Biome Ambience Settings
 		[Settings.Biomes."Biome Ambience"]
