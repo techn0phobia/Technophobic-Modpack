@@ -37,20 +37,20 @@
 	Experimental = true
 
 [automation]
-	"Chain Linkage" = true
-	"Chains Connect Blocks" = true
-	Chute = true
+	"Chain Linkage" = false
+	"Chains Connect Blocks" = false
+	Chute = false
 	"Color Slime" = true
-	"Dispensers Place Blocks" = true
+	"Dispensers Place Blocks" = false
 	"Ender Watcher" = true
-	"Endermites Form Shulkers" = true
+	"Endermites Form Shulkers" = false
 	"Feeding Trough" = true
-	Gravisand = true
-	"Iron Rod" = true
+	Gravisand = false
+	"Iron Rod" = false
 	"Jukebox Automation" = true
 	"Metal Buttons" = true
 	"Obsidian Plate" = true
-	"Pistons Move Tile Entities" = true
+	"Pistons Move Tile Entities" = false
 	"Redstone Circuit" = true
 	"Weather Sensor" = true
 
@@ -114,23 +114,23 @@
 	"Nether Brick Fence Gate" = true
 	"Paper Decor" = true
 	"Quilted Wool" = true
-	Rope = true
+	Rope = false
 	"Shallow Dirt" = true
 	Shingles = true
 	"Soul Sandstone" = true
 	"Stained Planks" = true
-	Stools = true
-	"Sturdy Stone" = true
-	"Tallow And Candles" = true
+	Stools = false
+	"Sturdy Stone" = false
+	"Tallow And Candles" = false
 	Thatch = true
-	"Tie Leads To Fences" = true
+	"Tie Leads To Fences" = false
 	Turf = true
 	"Variant Bookshelves" = true
 	"Variant Chests" = true
 	"Variant Ladders" = true
-	"Vertical Planks" = true
-	"Vertical Slabs" = true
-	"Wooden Posts" = true
+	"Vertical Planks" = false
+	"Vertical Slabs" = false
+	"Wooden Posts" = false
 
 	[building.celebratory_lamps]
 		"Light Level" = 15
@@ -228,7 +228,7 @@
 		"Enable Iron Ladder" = true
 
 [management]
-	"Chests In Boats" = true
+	"Chests In Boats" = false
 	"Easy Transfering" = true
 	"Hotbar Changer" = true
 	"Inventory Sorting" = true
@@ -251,15 +251,15 @@
 
 [tools]
 	"Endermosh Music Disc" = true
-	Abacus = true
-	"Ambient Discs" = true
+	Abacus = false
+	"Ambient Discs" = false
 	"Ancient Tomes" = true
-	"Bottled Cloud" = true
-	Camera = true
+	"Bottled Cloud" = false
+	Camera = false
 	"Color Runes" = true
-	"Pathfinder Maps" = true
-	Pickarang = true
-	"Seed Pouch" = true
+	"Pathfinder Maps" = false
+	Pickarang = false
+	"Seed Pouch" = false
 	"Slime In A Bucket" = true
 	Trowel = true
 
@@ -352,13 +352,13 @@
 		#Amount of blocks placed is this value + 1.
 		#Set to 0 to make the Trowel unbreakable
 		#Allowed values: [0,)
-		"Trowel Max Durability" = 0
+		"Trowel Max Durability" = 512
 
 [tweaks]
 	"Skull Pikes" = true
 	"Armed Armor Stands" = true
 	"Automatic Recipe Unlock" = true
-	"Axe Leaf Harvesting" = true
+	"Axe Leaf Harvesting" = false
 	"Better Elytra Rocket" = true
 	"Campfires Boost Elytra" = true
 	"Compasses Work Everywhere" = true
@@ -368,10 +368,10 @@
 	Emotes = true
 	"Enhanced Ladders" = true
 	"Glass Shard" = true
-	"Hoe Harvesting" = true
+	"Hoe Harvesting" = false
 	"Improved Sleeping" = true
-	"Infinity Bucket" = true
-	"Lava Bucket As Trash" = true
+	"Infinity Bucket" = false
+	"Lava Bucket As Trash" = false
 	"Lock Rotation" = true
 	"More Banner Layers" = true
 	"Note Block Mob Sounds" = true
@@ -427,7 +427,7 @@
 		#Allowed values: (0,)
 		"Afk Time" = 2400
 		#Allowed values: (0,1]
-		"Percent Req" = 1.0
+		"Percent Req" = 0.5
 
 	[tweaks.infinity_bucket]
 		Cost = 10
@@ -508,7 +508,7 @@
 	Deepslate = true
 	"Fairy Rings" = true
 	"Mega Caves" = true
-	"Monster Box" = true
+	"Monster Box" = false
 	"Nether Obsidian Spikes" = true
 	"New Stone Types" = true
 	"Realistic World Gen" = true
@@ -1665,12 +1665,12 @@
 
 [mobs]
 	Crabs = true
-	Forgotten = true
-	Foxhound = true
+	Forgotten = false
+	Foxhound = false
 	Frogs = true
-	Stonelings = true
-	Toretoise = true
-	Wraith = true
+	Stonelings = false
+	Toretoise = false
+	Wraith = false
 
 	[mobs.crabs]
 		"Enable Brewing" = true
