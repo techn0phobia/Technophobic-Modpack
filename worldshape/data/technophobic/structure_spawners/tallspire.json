@@ -1,0 +1,16 @@
+{
+    "template": { 
+        "type": "single",
+        "id": "technophobic:tests/tallspire",
+        "followTerrain": false
+                },      
+    "placement": { 
+        "type": "surface",
+        "minY": 30,
+        "maxY": 150,
+        "offset": -7,
+        "terraform": 7
+                 },    
+    "minimumSpacing": 20,
+    "averageSpacing": 100
+}
