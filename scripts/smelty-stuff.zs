@@ -48,7 +48,7 @@ furnace.addRecipe("raw_lead_ingot", <item:thermal:lead_ingot>, <item:oreclumps:r
 furnace.addRecipe("raw_nickel_ingot", <item:thermal:nickel_ingot>, <item:oreclumps:raw_nickel>, 0.7, 200);
 furnace.addRecipe("raw_tin_ingot", <item:thermal:tin_ingot>, <item:oreclumps:raw_tin>, 0.7, 200);
 furnace.addRecipe("raw_silver_ingot", <item:thermal:silver_ingot>, <item:oreclumps:raw_silver>, 0.7, 200);
-furnace.addRecipe("raw_cobalt_ingot", <item:tconstruct:cobalt_ingot>, <item:oreclumps:raw_cobalt>, 0.7, 200);
+
 
 blastFurnace.addRecipe("raw_iron_ingot", <item:minecraft:iron_ingot>, <item:oreclumps:raw_iron>, 0.7, 100);
 blastFurnace.addRecipe("raw_gold_ingot", <item:minecraft:gold_ingot>, <item:oreclumps:raw_gold>, 0.7, 100);
@@ -56,7 +56,7 @@ blastFurnace.addRecipe("raw_lead_ingot", <item:thermal:lead_ingot>, <item:oreclu
 blastFurnace.addRecipe("raw_nickel_ingot", <item:thermal:nickel_ingot>, <item:oreclumps:raw_nickel>, 0.7, 100);
 blastFurnace.addRecipe("raw_tin_ingot", <item:thermal:tin_ingot>, <item:oreclumps:raw_tin>, 0.7, 100);
 blastFurnace.addRecipe("raw_silver_ingot", <item:thermal:silver_ingot>, <item:oreclumps:raw_silver>, 0.7, 100);
-blastFurnace.addRecipe("raw_cobalt_ingot", <item:tconstruct:cobalt_ingot>, <item:oreclumps:raw_cobalt>, 0.7, 100);
+
 
 
 
