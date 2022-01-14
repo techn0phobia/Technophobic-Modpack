@@ -40,6 +40,8 @@ JEI.hideIngredient(<item:oreclumps:nickel_ingot> as JeiIngredient) as void;
 JEI.hideIngredient(<item:oreclumps:lead_ingot> as JeiIngredient) as void;
 JEI.hideIngredient(<item:oreclumps:zinc_ingot> as JeiIngredient) as void;
 JEI.hideIngredient(<item:oreclumps:cobalt_ingot> as JeiIngredient) as void;
+JEI.hideIngredient(<item:oreclumps:raw_cobalt> as JeiIngredient) as void;
+JEI.hideIngredient(<item:oreclumps:raw_cobalt_block> as JeiIngredient) as void;
 
 
 furnace.addRecipe("raw_iron_ingot", <item:minecraft:iron_ingot>, <item:oreclumps:raw_iron>, 0.7, 200);
