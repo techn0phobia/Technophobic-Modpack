@@ -1,0 +1,14 @@
+{
+    "oreConfig": [
+      {
+        "ore": "cavesandcliffs:copper_ore",
+        "filler": "minecraft:stone",
+        "minY": 1,
+        "maxY": 128,
+        "maxVeinSize": 20,
+        "spawnRate": 14.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": []
+      }
+    ]
+  }
