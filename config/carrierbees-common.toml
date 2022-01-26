@@ -1,0 +1,64 @@
+
+[general]
+	#whether or not potion effects given by bees should persist through death
+	effects_persist = false
+	#if improved_ai is true, whether or not bees should remain stationary when they have a target
+	sniper_mode = true
+	#if improved_ai is true, the maximum height above the highest block a bee should fly to
+	#Range: > 1
+	ai_height = 10
+	#whether or not bees should have their AI improved
+	improved_ai = true
+	#whether or not bees will die after stinging
+	sting_kills = false
+	#whether or not bees will always attack or only if angered
+	always_angry = false
+
+[crumblebees]
+	#the chance as a percent per tick of the potion effect that a tool or sword will take durability damage
+	#Range: 0.0 ~ 1.7976931348623157E308
+	durability_chance = 0.015
+	#the maximum amount of durability damage applied (randomly from 1 to X)
+	#Range: > 0
+	durability_damage = 3
+	#whether or not crumble will damage items at or below 10 durability
+	nice_mode = true
+
+[fumblebee]
+	#the chance of dropping an item per tick, expressed as 1 in X
+	#Range: > 0
+	fumble_chance = 24
+
+[bomblebees]
+	#the size of the bomblebee's explosive projectile's explosion
+	#Range: 0.0 ~ 1.7976931348623157E308
+	explosion_size = 4.0
+	#the amount of damage that the bomblebee's explosive projectile does
+	#Range: 0.0 ~ 1.7976931348623157E308
+	explosion_damage = 3.5
+
+["carrier bees"]
+	#the amount of damage the honeycomb projectile does
+	#Range: 0.0 ~ 1.7976931348623157E308
+	honeycomb_damage = 3.5
+	#the length of time in ticks that honeycomb slows for
+	#Range: > 0
+	honeycomb_slow = 160
+	#the radius of the honeycomb projectile's splash damage/slow
+	#Range: 0.0 ~ 1.7976931348623157E308
+	honeycomb_size = 4.0
+
+[drumblebee]
+	#the chance of being granted slowness x while under the effects of the drumble debuff, expressed as 1 in X
+	#Range: > 0
+	fumble_chance = 30
+
+[drabblebees]
+	#the chance per fire tick to summon a drabble bee
+	#Range: -1.0 ~ 1.7976931348623157E308
+	drabblebee_chance = 0.4
+
+[thimblebee]
+	#whether or not up to 2 additional thimblebees should spawn when a single thimblebee is spawned
+	additional_thimblebees = true
+
