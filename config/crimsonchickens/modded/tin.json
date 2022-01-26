@@ -1,0 +1,22 @@
+{
+	"displayName": "Tin Chicken",
+	"dropItem": "items:forge:ingots/tin",
+	"dropItemNBT": "",
+	"spawnNaturally": true,
+	"spawnType": 1,
+	"spawnWeight": 7,
+	"canBreed": true,
+	"baseHealth": 4,
+	"baseSpeed": 0.25,
+	"isFireImmune": false,
+	"conversion": 250,
+	"biomesWhitelist": [],
+	"biomesBlacklist": [],
+	"eggLayTime": 6000,
+	"eggColorBackground": 9020852,
+	"eggColorForeground": 9408399,
+	"hasTrait": 0,
+	"parentA": "",
+	"parentB": "",
+	"enabled": true
+}

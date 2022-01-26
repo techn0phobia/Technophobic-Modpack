@@ -1,0 +1,22 @@
+{
+	"displayName": "Magma Chicken",
+	"dropItem": "minecraft:magma_cream",
+	"dropItemNBT": "",
+	"spawnNaturally": false,
+	"spawnType": 0,
+	"spawnWeight": 5,
+	"canBreed": true,
+	"baseHealth": 4,
+	"baseSpeed": 0.25,
+	"isFireImmune": true,
+	"conversion": 250,
+	"biomesWhitelist": [],
+	"biomesBlacklist": [],
+	"eggLayTime": 6000,
+	"eggColorBackground": 13257483,
+	"eggColorForeground": 5349438,
+	"hasTrait": 0,
+	"parentA": "crimsonchickens:slime_chicken",
+	"parentB": "crimsonchickens:blaze_chicken",
+	"enabled": true
+}

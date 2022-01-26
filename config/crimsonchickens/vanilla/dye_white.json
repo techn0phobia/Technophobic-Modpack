@@ -1,0 +1,22 @@
+{
+	"displayName": "White Dye Chicken",
+	"dropItem": "minecraft:white_dye",
+	"dropItemNBT": "",
+	"spawnNaturally": true,
+	"spawnType": 1,
+	"spawnWeight": 10,
+	"canBreed": true,
+	"baseHealth": 4,
+	"baseSpeed": 0.25,
+	"isFireImmune": false,
+	"conversion": 250,
+	"biomesWhitelist": [],
+	"biomesBlacklist": [],
+	"eggLayTime": 6000,
+	"eggColorBackground": 16383998,
+	"eggColorForeground": 15921906,
+	"hasTrait": 0,
+	"parentA": "",
+	"parentB": "",
+	"enabled": true
+}

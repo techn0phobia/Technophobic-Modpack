@@ -1,0 +1,22 @@
+{
+	"displayName": "Duck",
+	"dropItem": "crimsonchickens:duck_egg",
+	"dropItemNBT": "",
+	"spawnNaturally": true,
+	"spawnType": 1,
+	"spawnWeight": 15,
+	"canBreed": true,
+	"baseHealth": 4,
+	"baseSpeed": 0.25,
+	"isFireImmune": false,
+	"conversion": 10,
+	"biomesWhitelist": ["minecraft:plains", "minecraft:river", "minecraft:beach", "minecraft:stone_shore"],
+	"biomesBlacklist": [],
+	"eggLayTime": 6000,
+	"eggColorBackground": 8606770,
+	"eggColorForeground": 6192150,
+	"hasTrait": 1,
+	"parentA": "",
+	"parentB": "",
+	"enabled": true
+}
