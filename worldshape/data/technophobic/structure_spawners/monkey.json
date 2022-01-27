@@ -1,0 +1,20 @@
+{
+    "template": { 
+        "type": "single",
+        "id": "technophobic:tests/monkey",
+        "followTerrain": true
+                },      
+    "placement": { 
+        "type": "surface",
+        "minY": 30,
+        "maxY": 90,
+        "offset": -3,
+        "terraform": 3
+                 },    
+    "minimumSpacing": 20,
+    "averageSpacing": 100,
+    "biomes": [ 
+        "minecraft:jungle"
+     ],  
+    "dimensions": ["minecraft:overworld"]
+}
