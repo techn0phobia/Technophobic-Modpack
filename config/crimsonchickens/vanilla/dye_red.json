@@ -4,7 +4,7 @@
 	"dropItemNBT": "",
 	"spawnNaturally": true,
 	"spawnType": 1,
-	"spawnWeight": 10,
+	"spawnWeight": 7,
 	"canBreed": true,
 	"baseHealth": 4,
 	"baseSpeed": 0.25,
