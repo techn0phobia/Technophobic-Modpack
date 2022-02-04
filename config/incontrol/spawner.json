@@ -1,1 +1,21 @@
-[]
+[
+    {
+        "mob": ["mutantbeasts:mutant_creeper", "mutantbeasts:mutant_skeleton", "mutantbeasts:mutant_enderman", "mutantbeasts:mutant_zombie"],
+        "persecond": 0.5,
+        "attempts": 20,
+        "amount": {
+          "minimum": 1,
+          "maximum": 1
+        },
+        "conditions": {
+            "dimension": "minecraft:overworld",
+            "norestrictions": true,
+            "mindist": 24,
+            "maxdist": 120,
+            "minheight": 45,
+            "maxheight": 175,
+            "maxthis": 1
+        }
+
+    }
+]

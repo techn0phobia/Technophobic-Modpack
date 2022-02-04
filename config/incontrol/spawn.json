@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "mob": ["mutantbeasts:mutant_creeper", "mutantbeasts:mutant_skeleton", "mutantbeasts:mutant_enderman", "mutantbeasts:mutant_zombie"],
+        "structure": "worldshape:technophobic/newk",
+        "result": "allow"
+    },
+    {
+        "mob": ["mutantbeasts:mutant_creeper", "mutantbeasts:mutant_skeleton", "mutantbeasts:mutant_enderman", "mutantbeasts:mutant_zombie"],
+        "result": "deny"
+    }
+    
+]
