@@ -1,0 +1,17 @@
+{
+    "template": {
+        "type": "pool",
+        "id": "technophobic:ruinedspire"
+    },
+
+    "averageSpacing": 38,
+    "avoidOthers": true,
+    
+    "placement": {
+        "offset": -7,
+        "terraform": 7,
+        "minY": 60,
+        "type": "surface"
+    },    
+    "dimensions": ["minecraft:overworld"]
+}

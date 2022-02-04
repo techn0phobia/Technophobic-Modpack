@@ -1,0 +1,17 @@
+{
+    "template": { 
+        "type": "pool",
+        "id": "technophobic:newk",
+        "followTerrain": false
+                },      
+    "placement": { 
+        "type": "surface",
+        "minY": 30,
+        "maxY": 70,
+        "offset": -4
+        
+                 },    
+    "minimumSpacing": 30,
+    "averageSpacing": 45,  
+    "dimensions": ["minecraft:overworld"]
+}
