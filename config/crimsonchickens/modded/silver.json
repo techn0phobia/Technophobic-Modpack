@@ -2,7 +2,7 @@
 	"displayName": "Silver Chicken",
 	"dropItem": "items:forge:ingots/silver",
 	"dropItemNBT": "",
-	"spawnNaturally": ture,
+	"spawnNaturally": true,
 	"spawnType": 1,
 	"spawnWeight": 7,
 	"canBreed": true,
