@@ -1,6 +1,6 @@
 {
 	"displayName": "Lead Chicken",
-	"dropItem": "item:thermal:lead_ingots",
+	"dropItem": "item:thermal:lead_ingot",
 	"dropItemNBT": "",
 	"spawnNaturally": false,
 	"spawnType": 1,
