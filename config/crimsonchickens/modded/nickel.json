@@ -1,6 +1,6 @@
 {
 	"displayName": "Nickel Chicken",
-	"dropItem": "items:thermal:nickel_ingot",
+	"dropItem": "item:thermal:nickel_ingot",
 	"dropItemNBT": "",
 	"spawnNaturally": true,
 	"spawnType": 1,
