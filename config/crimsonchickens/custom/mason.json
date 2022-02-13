@@ -1,0 +1,22 @@
+{
+	"displayName": "Mason Chicken",
+	"dropItem": "",
+	"dropItemNBT": "",
+	"spawnNaturally": true,
+	"spawnType": 1,
+	"spawnWeight": 18,
+	"canBreed": true,
+	"baseHealth": 4,
+	"baseSpeed": 0.25,
+	"isFireImmune": false,
+	"conversion": 250,
+	"biomesWhitelist": [],
+	"biomesBlacklist": [],
+	"eggLayTime": 6000,
+	"eggColorBackground": 992819,
+	"eggColorForeground": 658964,
+	"hasTrait": 0,
+	"parentA": "",
+	"parentB": "",
+	"enabled": true
+}
