@@ -1,6 +1,6 @@
 {
 	"displayName": "Silver Chicken",
-	"dropItem": "items:forge:ingots/silver",
+	"dropItem": "items:thermal:silver_ingot",
 	"dropItemNBT": "",
 	"spawnNaturally": true,
 	"spawnType": 1,
