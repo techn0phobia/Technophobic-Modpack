@@ -1,6 +1,6 @@
 {
 	"displayName": "Ancient Chicken",
-	"dropItem": "more_jellyfishing:netherite_chunk",
+	"dropItem": "more_jellyfish:netherite_chunk",
 	"dropItemNBT": "",
 	"spawnNaturally": false,
 	"spawnType": 0,
