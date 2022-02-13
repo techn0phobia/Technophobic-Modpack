@@ -17,6 +17,6 @@
 	"eggColorForeground": 9408399,
 	"hasTrait": 0,
 	"parentA": "crimsonchickens:iron_chicken",
-	"parentB": "minecraft:chicken",
+	"parentB": "crimsonchickens:chicken",
 	"enabled": true
 }
