@@ -2,7 +2,7 @@
 	"displayName": "Angry Boi",
 	"dropItem": "",
 	"dropItemNBT": "",
-	"spawnNaturally": true,
+	"spawnNaturally": false,
 	"spawnType": 0,
 	"spawnWeight": 8,
 	"canBreed": true,
@@ -18,5 +18,5 @@
 	"hasTrait": 0,
 	"parentA": "",
 	"parentB": "",
-	"enabled": true
+	"enabled": false
 }
