@@ -1,6 +1,6 @@
 {
 	"displayName": "Experience Chicken",
-	"dropItem": "crimsonchickens:xp_item",
+	"dropItem": "minecraft:experience_bottle",
 	"dropItemNBT": "",
 	"spawnNaturally": false,
 	"spawnType": 1,
