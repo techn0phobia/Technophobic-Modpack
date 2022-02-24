@@ -528,7 +528,7 @@
 
 	[world.big_dungeon]
 		#The chance that a big dungeon spawn candidate will be allowed to spawn. 0.2 is 20%, which is the same as the Pillager Outpost.
-		"Spawn Chance" = 0.1
+		"Spawn Chance" = 0.0
 		"Loot Table" = "minecraft:chests/simple_dungeon"
 		"Max Rooms" = 10
 		"Chest Chance" = 0.5
