@@ -10,7 +10,7 @@
 	"baseSpeed": 0.25,
 	"isFireImmune": true,
 	"conversion": 250,
-	"biomesWhitelist": ["minecraft:nether_wastes"],
+	"biomesWhitelist": ["minecraft:soul_sand_valley", "biomesoplenty:dry_boneyard"],
 	"biomesBlacklist": [],
 	"eggLayTime": 6000,
 	"eggColorBackground": 15921906,
