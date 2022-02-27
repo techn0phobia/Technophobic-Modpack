@@ -1,6 +1,6 @@
 {
 	"displayName": "Nickel Chicken",
-	"dropItem": "item:thermal:nickel_ingot",
+	"dropItem": "items:forge:ingots/nickel",
 	"dropItemNBT": "",
 	"spawnNaturally": true,
 	"spawnType": 1,
@@ -16,7 +16,7 @@
 	"eggColorBackground": 15262882,
 	"eggColorForeground": 9408399,
 	"hasTrait": 0,
-	"parentA": "",
-	"parentB": "",
+	"parentA": "crimsonchicken:sweat_chicken",
+	"parentB": "crimsonchicken:iron_chicken",
 	"enabled": true
 }
