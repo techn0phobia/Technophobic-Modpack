@@ -16,7 +16,7 @@
 	"eggColorBackground": 16777215,
 	"eggColorForeground": 15658751,
 	"hasTrait": 6,
-	"parentA": "crimsonchickens:quartz_chicken",
-	"parentB": "crimsonchickens:redstone_chicken",
+	"parentA": "crimsonchickens:blaze_chicken",
+	"parentB": "crimsonchickens:sand_chicken",
 	"enabled": true
 }
