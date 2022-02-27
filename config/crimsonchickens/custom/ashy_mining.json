@@ -1,0 +1,22 @@
+{
+	"displayName": "Ashy Mining Chicken",
+	"dropItem": "",
+	"dropItemNBT": "",
+	"spawnNaturally": true,
+	"spawnType": 1,
+	"spawnWeight": 8,
+	"canBreed": true,
+	"baseHealth": 4,
+	"baseSpeed": 0.25,
+	"isFireImmune": false,
+	"conversion": 250,
+	"biomesWhitelist": [],
+	"biomesBlacklist": [],
+	"eggLayTime": 6000,
+	"eggColorBackground": 5534167,
+	"eggColorForeground": 8684677,
+	"hasTrait": 0,
+	"parentA": "",
+	"parentB": "",
+	"enabled": true
+}
