@@ -2,7 +2,7 @@
 	"displayName": "Lava Chicken",
 	"dropItem": "crimsonchickens:lava_egg",
 	"dropItemNBT": "",
-	"spawnNaturally": true,
+	"spawnNaturally": false,
 	"spawnType": 0,
 	"spawnWeight": 15,
 	"canBreed": true,
