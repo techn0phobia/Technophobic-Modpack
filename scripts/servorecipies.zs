@@ -18,7 +18,3 @@ craftingTable.addShaped("warp_stone", <item:waystones:warp_stone>, [
     [<item:minecraft:air>, <item:cavesandcliffs:amethyst_shard>, <item:minecraft:air>],
     [<item:cavesandcliffs:amethyst_shard>, <item:technophobicore:teleportationmodule>, <item:cavesandcliffs:amethyst_shard>],
     [<item:minecraft:air>, <item:cavesandcliffs:amethyst_shard>, <item:minecraft:air>]]);
-craftingTable.addShaped("warp_stone2", <item:waystones:warp_stone>, [
-    [<item:minecraft:air>, <item:gemsplusplus:amethyst>, <item:minecraft:air>],
-    [<item:gemsplusplus:amethyst>, <item:technophobicore:teleportationmodule>, <item:gemsplusplus:amethyst>],
-    [<item:minecraft:air>, <item:gemsplusplus:amethyst>, <item:minecraft:air>]]);
