@@ -18,7 +18,7 @@
 	"eggColorBackground": 9995373,
 	"eggColorForeground": 5407576,
 	"hasTrait": 0,
-	"parentA": "",
-	"parentB": "",
+	"parentA": "crimsonchickens:leafcutter_chicken",
+	"parentB": "crimsonchickens:carpenter_chicken",
 	"enabled": true
 }
