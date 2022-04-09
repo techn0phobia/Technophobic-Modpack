@@ -1,0 +1,12 @@
+{
+    "primaryColor": "#f0db1f",
+    "secondaryColor": "#000000",
+    "flowerBlock": "buddycards:luminis_block",
+    "name": "Luminis",
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "productivebees"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "primaryColor": "#e8e8e8",
+    "secondaryColor": "#8a8a8a",
+    "flowerBlock": "silentgear:bort_ore",
+    "name": "Bort",
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "productivebees"
+        }
+    ]
+}

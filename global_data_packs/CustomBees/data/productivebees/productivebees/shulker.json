@@ -1,0 +1,12 @@
+{
+    "primaryColor": "#b061ff",
+    "secondaryColor": "#000000",
+    "flowerBlock": "minecraft:shulker_box",
+    "name": "Shulker",
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "productivebees"
+        }
+    ]
+}

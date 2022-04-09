@@ -1,0 +1,12 @@
+{
+    "primaryColor": "#8324ff",
+    "secondaryColor": "#c7c7c7",
+    "flowerBlock": "silentgear:azure_silver_block",
+    "name": "Azure Silver",
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "productivebees"
+        }
+    ]
+}

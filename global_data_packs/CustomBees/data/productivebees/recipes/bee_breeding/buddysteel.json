@@ -1,0 +1,8 @@
+{
+    "type": "productivebees:bee_breeding",
+    "parent1": "productivebees:iron",
+    "parent2": "productivebees:lapis",
+    "offspring": [
+        "productivebees:buddysteel"
+    ]
+}

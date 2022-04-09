@@ -1,0 +1,12 @@
+{
+    "primaryColor": "#16ecf0",
+    "secondaryColor": "#248a7c",
+    "flowerBlock": "betterend:thallasium_block",
+    "name": "Thallasium",
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "productivebees"
+        }
+    ]
+}

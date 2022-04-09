@@ -1,0 +1,12 @@
+{
+    "primaryColor": "#a557ff",
+    "secondaryColor": "#412463",
+    "flowerBlock": "buddycards:zylex_block",
+    "name": "Zylex",
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "productivebees"
+        }
+    ]
+}

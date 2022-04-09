@@ -1,0 +1,8 @@
+{
+    "type": "productivebees:bee_breeding",
+    "parent1": "productivebees:azuresilver",
+    "parent2": "productivebees:nomad_bee",
+    "offspring": [
+        "productivebees:martiansteel"
+    ]
+}

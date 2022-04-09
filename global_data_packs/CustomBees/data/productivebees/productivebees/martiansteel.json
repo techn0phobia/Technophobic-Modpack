@@ -1,0 +1,12 @@
+{
+    "primaryColor": "#241010",
+    "secondaryColor": "#39452d",
+    "flowerBlock": "boss_tools:silicon_block",
+    "name": "Martian Steel",
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "productivebees"
+        }
+    ]
+}

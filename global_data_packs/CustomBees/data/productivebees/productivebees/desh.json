@@ -1,0 +1,12 @@
+{
+    "primaryColor": "#ff7a05",
+    "secondaryColor": "#a6441b",
+    "flowerBlock": "boss_tools:desh_block",
+    "name": "Desh",
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "productivebees"
+        }
+    ]
+}

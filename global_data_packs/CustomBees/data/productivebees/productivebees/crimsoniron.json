@@ -1,0 +1,12 @@
+{
+    "primaryColor": "#ff0565",
+    "secondaryColor": "#e64572",
+    "flowerBlock": "silentgear:crimson_iron_block",
+    "name": "Crimson Iron",
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "productivebees"
+        }
+    ]
+}

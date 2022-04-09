@@ -1,0 +1,33 @@
+{
+    "type": "productivebees:centrifuge",
+    "ingredient": {
+        "type": "forge:nbt",
+        "item": "productivebees:configurable_honeycomb",
+        "nbt": {
+            "EntityTag": {
+                "type": "productivebees:netherwart"
+            }
+        }
+    },
+    "outputs": [
+        {
+            "item": {
+                "item": "minecraft:nether_wart"
+            },
+            "min": 1,
+            "max": 2,
+            "chance": 50
+        },
+        {
+            "item": {
+                "tag": "forge:wax"
+            }
+        },
+        {
+            "fluid": {
+                "fluid": "productivebees:honey"
+            },
+            "amount": 50
+        }
+    ]
+}

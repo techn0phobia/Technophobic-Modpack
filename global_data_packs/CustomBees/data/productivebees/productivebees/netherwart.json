@@ -1,0 +1,12 @@
+{
+    "primaryColor": "#ac2020",
+    "secondaryColor": "#511515",
+    "flowerBlock": "minecraft:soul_sand",
+    "name": "Netherwart",
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "productivebees"
+        }
+    ]
+}

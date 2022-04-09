@@ -1,0 +1,12 @@
+{
+    "primaryColor": "#8e4dff",
+    "secondaryColor": "#d5bdff",
+    "flowerBlock": "cavesandcliffs:amethyst_block",
+    "name": "Amethyst",
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "productivebees"
+        }
+    ]
+}

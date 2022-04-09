@@ -1,0 +1,12 @@
+{
+    "primaryColor": "#96e3ff",
+    "secondaryColor": "#adc0c7",
+    "flowerBlock": "buddycards:buddysteel_block",
+    "name": "Buddysteel",
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "productivebees"
+        }
+    ]
+}

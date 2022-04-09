@@ -1,0 +1,8 @@
+{
+    "type": "productivebees:bee_breeding",
+    "parent1": "productivebees:netherite",
+    "parent2": "productivebees:prismarine",
+    "offspring": [
+        "productivebees:neptunium"
+    ]
+}

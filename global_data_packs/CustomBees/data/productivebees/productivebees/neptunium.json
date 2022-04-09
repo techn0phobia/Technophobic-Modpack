@@ -1,0 +1,12 @@
+{
+    "primaryColor": "#33c496",
+    "secondaryColor": "#248a7c",
+    "flowerBlock": "aquaculture:neptunium_block",
+    "name": "Neptunium",
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "productivebees"
+        }
+    ]
+}
