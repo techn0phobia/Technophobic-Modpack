@@ -1,0 +1,3 @@
+<recipetype:thermal:insolator>.addRecipe("nanersowo", [<item:silentgear:netherwood_log> * 6 % 100, <item:silentgear:netherwood_sapling> % 100, <item:silentgear:nether_banana> % 80], <item:silentgear:netherwood_sapling>, 1500, 60000);
+<recipetype:thermal:insolator>.addRecipe("shroomblue", [<item:minecraft:warped_stem> * 6 % 100, <item:minecraft:warped_fungus> % 100,<item:minecraft:warped_wart_block> * 3,<item:minecraft:shroomlight> % 80], <item:minecraft:warped_fungus>, 1000, 30000);
+<recipetype:thermal:insolator>.addRecipe("shroomred", [<item:minecraft:crimson_stem> * 6 % 100, <item:minecraft:crimson_fungus> % 100,<item:minecraft:nether_wart_block> * 3,<item:minecraft:shroomlight> % 80], <item:minecraft:crimson_fungus>, 1000, 30000);
