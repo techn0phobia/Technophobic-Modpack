@@ -1,0 +1,1 @@
+<recipetype:thermal:centrifuge>.addRecipe("sapphirecentrifuge", [<item:iceandfire:sapphire_gem> % 100 ], <fluid:cofh_core:honey> *100, <item:productivebees:honeycomb_sapphire>, 4000);
