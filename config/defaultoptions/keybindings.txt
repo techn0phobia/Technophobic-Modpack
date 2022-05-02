@@ -119,7 +119,7 @@ key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown:NONE
 key_key.zoom:key.keyboard.x:NONE
 key_key.personality.crawl:key.keyboard.c:NONE
 key_key.personality.sit:key.keyboard.z:NONE
-key_key.configured.open_mod_list:key.keyboard.e:CONTROL
+key_key.configured.open_mod_list:key.keyboard.minus:NONE
 key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
 key_key.jei.focusSearch:key.keyboard.f:CONTROL
 key_key.jei.toggleCheatMode:key.keyboard.j:NONE
