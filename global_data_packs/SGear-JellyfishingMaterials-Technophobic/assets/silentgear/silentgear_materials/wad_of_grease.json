@@ -1,0 +1,26 @@
+{
+  "coating/all": [
+    {
+      "texture": "silentgear:main_generic_hc",
+      "color": "#cfae08"
+    },
+    {
+      "texture": "silentgear:_highlight"
+    }
+  ],
+  "coating/part": [
+    {
+      "texture": "silentgear:coating_material",
+      "color": "#cfae08"
+    },
+    {
+     "texture": "silentgear:coating_jar"
+    }
+  ],
+  "coating/armor": [
+    {
+    "texture": "minecraft:netherite",
+    "color": "#cfae08"
+    }
+  ]
+}
