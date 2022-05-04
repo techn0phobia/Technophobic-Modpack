@@ -1,0 +1,36 @@
+{
+  "availability": {
+    "tier": 1,
+    "categories": [
+      "organic"
+    ],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "minecraft:weeping_vines"
+    }
+  },
+  "name":{ "text":"Weeping Vine"},
+  "stats": {
+    "binding": {
+      "durability": {
+        "mul1": 0.20
+      }
+    }
+  },
+  "traits":{
+    "binding": [
+      {
+        "name": "silentgear:fireproof",
+        "level": 1
+      },
+      {
+        "name": "silentgear:flexible",
+        "level": 2
+      }
+    ]
+  }
+}

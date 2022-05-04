@@ -1,0 +1,56 @@
+{
+    "availability": {
+      "tier": 4,
+      "visible": true,
+      "gear_blacklist": [],
+      "can_salvage": true
+    },
+    "crafting_items": {
+      "main": {
+        "item": "jellyfishing:krabby_patty"
+      }
+    },
+    "name": {
+      "text": "Krabby"
+    },
+    "stats": {
+      "main": {
+        "durability": 2000.0,
+        "armor_durability": 40.0,
+        "enchantability": 27.0,
+        "harvest_level": 4.0,
+        "harvest_speed": 14.0,
+        "melee_damage": 6.0,
+        "magic_damage": 5.0,
+        "attack_speed/axe": -0.2,
+        "armor": 22.0,
+        "rarity": 80.0
+      },
+      "rod": {
+        "durability": {
+          "mul2": -0.1
+        },
+        "harvest_speed": {
+          "mul2": -0.1
+        }
+      }
+    },
+    "traits": {
+      "main": [
+        {
+            "name": "silentgear:soft",
+            "level": 2
+        },
+        {
+          "name": "silentgear:malleable",
+          "level": 2
+        }
+      ],
+      "rod": [
+        {
+          "name": "silentgear:soft",
+          "level": 2
+        }
+      ]
+    }
+  }

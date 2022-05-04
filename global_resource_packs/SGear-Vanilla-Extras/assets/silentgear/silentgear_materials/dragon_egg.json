@@ -1,0 +1,39 @@
+{
+  "tip/all": [
+    {
+      "texture": "silentgear:tip_sharp",
+      "color": "#050104"
+    }
+  ],
+  "tip/part": [
+    {
+      "texture": "silentgear:tip_base"
+    },
+    {
+      "texture": "silentgear:tip",
+      "color": "#050104"
+    },
+    {
+      "texture": "silentgear:tip_shine"
+    }
+  ],
+  "adornment/all": [
+    {
+      "texture": "silentgear:adornment_generic",
+      "color": "#050104"
+    },
+    {
+      "texture": "silentgear:adornment_highlight",
+      "color": "#050104"
+    }
+  ],
+  "adornment/part": [
+    {
+      "texture": "silentgear:adornment",
+      "color": "#050104"
+    },
+    {
+      "texture": "silentgear:adornment_highlight"
+    }
+  ]
+}

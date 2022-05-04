@@ -1,0 +1,14 @@
+{
+  "binding/all": [
+    {
+      "texture": "silentgear:binding_generic",
+      "color": "#0f6e50"
+    }
+  ],
+  "binding/part": [
+    {
+      "texture": "silentgear:binding",
+      "color": "#0f6e50"
+    }
+  ]
+}

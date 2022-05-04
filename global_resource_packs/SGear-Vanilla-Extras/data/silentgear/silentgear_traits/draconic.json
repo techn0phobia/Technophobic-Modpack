@@ -1,0 +1,25 @@
+{
+  "type": "silentgear:potion_effect_trait",
+  "max_level": 5,
+  "name": {
+    "text": "Draconic"
+  },
+  "description": {
+    "text": "Gives strength on adornments"
+  },
+  "potion_effects": {
+    "curio": [
+      {
+        "type": "trait_level",
+        "effect": "minecraft:strength",
+        "level": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    ]
+  }
+}

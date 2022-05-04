@@ -1,0 +1,40 @@
+{
+    "availability": {
+      "tier": 4,
+      "visible": true,
+      "gear_blacklist": [],
+      "can_salvage": true
+    },
+    "crafting_items": {
+      "main": {
+        "item": "jellyfishing:blue_jellyfish_jelly"
+      }
+    },
+    "name": {
+      "text": "Blue Jellied"
+    },
+    "stats": {
+      "coating": {
+        "durability": [
+          {
+            "mul2": 0.2
+          }
+        ],
+        "armor_durability": {
+          "mul2": 0.2
+        },
+        "magic_damage": {
+          "mul2": 0.2
+        },
+        "ranged_damage": {
+          "add": -0.5
+        },
+        "armor_toughness": {
+          "add": 1.5
+        },
+        "enchantability": {
+          "add": 5.0
+        }
+      }
+    }
+  }

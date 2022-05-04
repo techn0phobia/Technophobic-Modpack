@@ -1,0 +1,26 @@
+{
+    "main/all": [
+      {
+        "texture": "silentgear:main_generic_lc",
+        "color": "#ebaf38"
+      }
+    ],
+    "main/fragment": [
+      {
+        "texture": "silentgear:metal",
+        "color": "#ebaf38"
+      }
+    ],
+    "rod/all": [
+      {
+        "texture": "silentgear:rod_generic_lc",
+        "color": "#ebaf38"
+      }
+    ],
+    "rod/part": [
+      {
+        "texture": "silentgear:rod",
+        "color": "#ebaf38"
+      }
+    ]
+  }

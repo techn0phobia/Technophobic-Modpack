@@ -1,0 +1,45 @@
+{
+    "availability": {
+      "tier": 5,
+      "visible": true,
+      "gear_blacklist": [],
+      "can_salvage": true
+    },
+    "crafting_items": {
+      "main": {
+        "item": "minecraft:dragon_egg"
+      }
+    },
+    "name": {
+      "text": "Dragon Egg"
+    },
+    "stats": {
+      "tip": {
+        "durability": 1500.0,
+        "harvest_level": 5.0,
+        "melee_damage": {
+          "mul2": 0.2
+        },
+        "armor": {
+          "mul2": 0.2
+        },
+        "armor_toughness": 1.0,
+        "magic_armor": {
+          "mul2": 0.2
+        },
+        "rarity": 20.0
+      },
+      "adornment": {
+        "rarity": 10.0
+      }
+    },
+    "traits": {
+      "adornment": [
+        {
+          "name": "silentgear:draconic",
+          "level": 2
+          
+        }
+      ]
+    }
+  }
