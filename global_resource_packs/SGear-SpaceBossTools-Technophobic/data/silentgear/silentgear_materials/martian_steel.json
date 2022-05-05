@@ -1,0 +1,65 @@
+{
+    "availability": {
+      "tier": 4,
+      "categories": [
+        "metal"
+      ],
+      "visible": true,
+      "gear_blacklist": [],
+      "can_salvage": true
+    },
+    "crafting_items": {
+      "main": {
+        "tag": "forge:ingots/silicon"
+      }
+    },
+    "name": {
+      "text": "Martian"
+    },
+    "stats": {
+      "main": {
+        "durability": 3200.0,
+        "armor_durability": 32.0,
+        "enchantability": 8.0,
+        "harvest_level": 3.0,
+        "harvest_speed": 18.0,
+        "melee_damage": 8.0,
+        "magic_damage": 5.0,
+        "attack_speed": 0.2,
+        "armor": 28.0,
+        "armor_toughness": 4.0,
+        "magic_armor": 6.0,
+        "ranged_damage": 2.0,
+        "ranged_speed": -0.2,
+        "rarity": 60.0
+      },
+      "rod": {
+        "durability": {
+          "mul2": 0.45
+        },
+        "rarity": 40.0
+      }
+    },
+    "traits": {
+      "main": [
+        {
+          "name": "silentgear:sturdy",
+          "level": 2
+        },
+        {
+            "name": "silentgear:flame_ward",
+            "level": 1
+        },
+        {
+            "name": "silentgear:cosmic",
+            "level": 1
+        }
+      ],
+      "rod": [
+        {
+          "name": "silentgear:sturdy",
+          "level": 2
+        }
+      ]
+    }
+  }
