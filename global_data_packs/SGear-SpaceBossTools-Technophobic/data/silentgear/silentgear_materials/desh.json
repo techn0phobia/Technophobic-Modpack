@@ -1,0 +1,62 @@
+{
+    "availability": {
+      "tier": 3,
+      "categories": [
+        "metal"
+      ],
+      "visible": true,
+      "gear_blacklist": [],
+      "can_salvage": true
+    },
+    "crafting_items": {
+      "main": {
+        "tag": "forge:ingots/desh"
+      }
+    },
+    "name": {
+      "text": "Desh"
+    },
+    "stats": {
+      "main": {
+        "durability": 800.0,
+        "armor_durability": 26.0,
+        "repair_value": 0.15,
+        "enchantability": 11.0,
+        "harvest_level": 3.0,
+        "harvest_speed": 10.0,
+        "melee_damage": 5.0,
+        "magic_damage": 5.0,
+        "attack_speed": 0.2,
+        "armor": 22.0,
+        "armor_toughness": 4.0,
+        "magic_armor": 6.0,
+        "ranged_damage": 2.0,
+        "ranged_speed": -0.2,
+        "rarity": 60.0
+      },
+      "rod": {
+        "durability": {
+          "mul2": 0.4
+        },
+        "rarity": 40.0
+      }
+    },
+    "traits": {
+      "main": [
+        {
+          "name": "silentgear:malleable",
+          "level": 3
+        },
+        {
+            "name": "silentgear:cosmic",
+            "level": 1
+        }
+      ],
+      "rod": [
+        {
+          "name": "silentgear:malleable",
+          "level": 3
+        }
+      ]
+    }
+  }
