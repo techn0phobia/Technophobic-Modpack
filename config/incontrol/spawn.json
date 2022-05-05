@@ -7,6 +7,12 @@
     {
         "mob": ["mutantbeasts:mutant_creeper", "mutantbeasts:mutant_skeleton", "mutantbeasts:mutant_enderman", "mutantbeasts:mutant_zombie"],
         "result": "deny"
+    },
+   
+    {
+        "mob": "observed:observer",
+   	  "dimension":[ "boss_tools:moon", "boss_tools:mars", "boss_tools:mercury", "boss_tools:venus", "boss_tools:moon_orbit", "boss_tools:mars_orbit", "boss_tools:mercury_orbit", "boss_tools:venus_orbit"],
+        "result": "deny"
     }
     
 ]
